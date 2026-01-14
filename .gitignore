@@ -6,8 +6,8 @@ venv/
 .env
 
 # --- Project Specific Data ---
-data/raw_images/
-
+data/images/
+output/
 
 # --- OS Specific ---
 .DS_Store
