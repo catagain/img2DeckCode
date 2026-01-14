@@ -1,0 +1,14 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# --- Project Specific Data ---
+data/raw_images/
+
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
